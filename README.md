@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
 
-<!--
-**nicolassilv04/nicolassilv04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
 
-Here are some ideas to get you started:
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nicolas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Artificial Inteligence student.
+
+* 🌍  I'm based in Brazil
+* 🤝  Open to collaborating on projects.
+
+# Skills 💪🏻
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+
+
+# 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Nicolassilv04&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nicolassilv04&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolassilv04&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
