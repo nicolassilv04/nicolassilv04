@@ -20,3 +20,10 @@ I'm an Artificial Inteligence student.
 ![](https://github-readme-stats.vercel.app/api?username=Nicolassilv04&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nicolassilv04&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolassilv04&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolassilv04/github-breakout/images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolassilv04/github-breakout/images/breakout-light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/nicolassilv04/github-breakout/images/breakout-light.svg" />
+</picture>
