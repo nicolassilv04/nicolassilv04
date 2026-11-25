@@ -17,9 +17,12 @@ I'm an Artificial Inteligence student.
 
 
 # 📊 GitHub Stats :
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nicolassilv04/nicolassilv04/main/github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
+<td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=nicolassilv04&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Estatísticas do GitHub"
+      />
+    </td>
+    <td>
 
 
